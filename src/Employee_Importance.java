@@ -1,7 +1,7 @@
 import java.util.List;
 
 public class Employee_Importance {
-    
+
     class Employee {
         // It's the unique id of each node;
         // unique id of this employee
