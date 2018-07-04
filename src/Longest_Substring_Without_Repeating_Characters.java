@@ -7,11 +7,6 @@ public class Longest_Substring_Without_Repeating_Characters {
         System.out.println(solver.lengthOfLongestSubstring("abcabcbb"));
         System.out.println(solver.lengthOfLongestSubstring("bbbbb"));
         System.out.println(solver.lengthOfLongestSubstring("pwwkew"));
-<<<<<<< HEAD
-
-=======
-        
->>>>>>> 7d9e7cc6e79cfa9f248052715697b39dc91c99da
     }
 
     public int lengthOfLongestSubstring(String s) {
